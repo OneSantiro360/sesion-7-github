@@ -1,6 +1,6 @@
 import math
 
-# Calculadora básica — práctica sesión 7
+# Calculadora básica — práctica sesión 7, somos la ver...dad.
 
 
 def sumar(a, b):
