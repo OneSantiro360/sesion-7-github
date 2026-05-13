@@ -1,3 +1,9 @@
+def potencia(base, exponente): 
+
+    '''Retorna base elevado al exponente''' 
+
+    return base ** exponente 
+
 # Calculadora básica — práctica sesión 7
 
 def sumar(a, b):
@@ -23,3 +29,5 @@ if __name__ == '__main__':
     print(f'Resta: {restar(10, 5)}')
     print(f'Multiplicación: {multiplicar(10, 5)}')
     print(f'División: {dividir(10, 5)}')
+
+
